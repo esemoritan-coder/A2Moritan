@@ -14,3 +14,7 @@ knitr:
 #| label: setup
 library(A2Moritan)
 ```
+
+
+#GitHub Repository
+https://github.com/esemoritan-coder/A2Moritan

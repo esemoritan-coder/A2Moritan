@@ -16,5 +16,5 @@ library(A2Moritan)
 ```
 
 
-#GitHub Repository
+# GitHub Repository
 https://github.com/esemoritan-coder/A2Moritan
